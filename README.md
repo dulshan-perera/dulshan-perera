@@ -1,6 +1,9 @@
 ### Hello there! 👋
 
-<b>My name is Dulshan Perera. A Software Engineering undergraduate at SLIIT.
+<b>My name is Dulshan Perera. I am a Software Engineering undergraduate at SLIIT.</b>
+
+- I'm working as a Software Development intern at attune Consulting.
+- I’m currently learning SpringBoot.
 
 <!--
 **dulshan-perera/dulshan-perera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
