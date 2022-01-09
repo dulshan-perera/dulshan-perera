@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there! 👋
+
+<b>My name is Dulshan Perera. A Software Engineering undergraduate at SLIIT.
 
 <!--
 **dulshan-perera/dulshan-perera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
