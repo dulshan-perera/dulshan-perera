@@ -1,11 +1,11 @@
-# Hello there! 👋
+<h1 align='center'> Hello there! 👋</h1>
 
-My name is <b> Dulshan Perera </b>.<br/> I am a Software Engineering undergraduate at SLIIT who is interested in coding and graphic designing.
+<p align='center'>My name is <b> Dulshan Perera </b>.<br/> I am a Software Engineering undergraduate at SLIIT who is interested in coding and graphic designing.</p>
 
 - I'm working as a Software Development intern at attune Consulting.
 - I’m currently learning SpringBoot.
-<p align='center'><img alt="GitHub followers" src="https://img.shields.io/github/followers/dulshan-perera?style=social"></p>
-<p align='center'><img src=https://komarev.com/ghpvc/?username=dulshan-perera&style=for-the-badge&color=brightgreen /></p>
+<p align='center'><img alt="GitHub followers" src="https://img.shields.io/github/followers/dulshan-perera?style=social">
+<img src=https://komarev.com/ghpvc/?username=dulshan-perera&style=for-the-badge&color=brightgreen /></p>
 
 
 <h2 align='center'>Connect With Me:</h2>
