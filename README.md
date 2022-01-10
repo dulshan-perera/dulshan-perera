@@ -1,4 +1,4 @@
-## Hello there! 👋
+# Hello there! 👋
 
 My name is <b> Dulshan Perera </b>.<br/> I am a Software Engineering undergraduate at SLIIT who is interested in coding and graphic designing.
 
