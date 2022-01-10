@@ -4,6 +4,10 @@
 
 - I'm working as a Software Development intern at attune Consulting.
 - I’m currently learning SpringBoot.
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/dulshan-perera?style=social">
+
+<hr/>
+
 
 <!--
 **dulshan-perera/dulshan-perera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
