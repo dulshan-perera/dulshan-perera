@@ -2,17 +2,17 @@
 
 <p align='center'>My name is <b> Dulshan Perera </b>.<br/> I am a Software Engineering undergraduate at SLIIT who is interested in coding and graphic designing.</p>
 
-- I'm working as a Software Development intern at attune Consulting.
-- I’m currently learning SpringBoot.
+- 🏢 I'm working as a Software Development intern at attune Consulting.
+- 🌱 I’m currently learning SpringBoot.
 <p align='center'><img alt="GitHub followers" src="https://img.shields.io/github/followers/dulshan-perera?style=social">
 <img src=https://komarev.com/ghpvc/?username=dulshan-perera&style=for-the-badge&color=brightgreen /></p>
 
 
 <h2 align='center'>Connect With Me:</h2>
 
-- <b>LinkedIn :</b> <a href='https://www.linkedin.com/in/dulshan-perera-5a2a81216/'>Dulshan Perera </a>
-- <b>Instagram :</b> <a href='https://www.instagram.com/_shavin01_/'> _ shavin01 _ </a>
-- <b>Facebook :</b> <a href='https://www.facebook.com/profile.php?id=100012793410934'>Shavinda Dulshan Perera </a>
+- 🤝<b>LinkedIn :</b> <a href='https://www.linkedin.com/in/dulshan-perera-5a2a81216/'>Dulshan Perera </a>
+- 🤝<b>Instagram :</b> <a href='https://www.instagram.com/_shavin01_/'> _ shavin01 _ </a>
+- 🤝<b>Facebook :</b> <a href='https://www.facebook.com/profile.php?id=100012793410934'>Shavinda Dulshan Perera </a>
 
 <h2 align='center'>SKILLS:</h2>
 
@@ -62,7 +62,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+-  I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
