@@ -7,9 +7,9 @@
 <p align='center'><img alt="GitHub followers" src="https://img.shields.io/github/followers/dulshan-perera?style=social">
 <img src=https://komarev.com/ghpvc/?username=dulshan-perera&style=for-the-badge&color=brightgreen /></p>
 
-
-
 <h2 align='center'>Connect With Me:</h2>
+
+<h3 align='center'>Socials:</h3>
 
 [<img align="right" src="https://spotify-eq-git-master-dulshan-perera.vercel.app/api/spotify/" alt="spotify" width="350px"/>](https://open.spotify.com/user/31eciunzi2m37sgte5wfybydcu6i?si=8e8b3fbc38b04cde)
 
