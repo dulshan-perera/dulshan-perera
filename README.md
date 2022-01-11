@@ -1,4 +1,4 @@
-<h1 align='center'> Hello there! 👋</h1>
+<h1 align='center'> Hello There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <p align='center'>My name is <b> Dulshan Perera </b>.<br/> I am a Software Engineering undergraduate at SLIIT who is interested in coding and graphic designing.</p>
 
@@ -13,11 +13,6 @@
 - <b>LinkedIn :</b> <a href='https://www.linkedin.com/in/dulshan-perera-5a2a81216/'>Dulshan Perera </a>
 - <b>Instagram :</b> <a href='https://www.instagram.com/_shavin01_/'> _ shavin01 _ </a>
 - <b>Facebook :</b> <a href='https://www.facebook.com/profile.php?id=100012793410934'>Shavinda Dulshan Perera </a>
-
-
-[linkedIn]: https://www.linkedin.com/in/dulshan-perera-5a2a81216/
-[instagram]: https://www.instagram.com/_shavin01_/
-[facebook]: https://www.facebook.com/profile.php?id=100012793410934
 
 <h2 align='center'>SKILLS:</h2>
 
