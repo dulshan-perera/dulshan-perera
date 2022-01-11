@@ -8,11 +8,15 @@
 <img src=https://komarev.com/ghpvc/?username=dulshan-perera&style=for-the-badge&color=brightgreen /></p>
 
 
+
 <h2 align='center'>Connect With Me:</h2>
+
+[<img align="right" src="https://spotify-eq-git-master-dulshan-perera.vercel.app/api/spotify/" alt="spotify" width="350px"/>](https://open.spotify.com/user/31eciunzi2m37sgte5wfybydcu6i?si=8e8b3fbc38b04cde)
 
 - 🤝<b>LinkedIn :</b> <a href='https://www.linkedin.com/in/dulshan-perera-5a2a81216/'>Dulshan Perera </a>
 - 🤝<b>Instagram :</b> <a href='https://www.instagram.com/_shavin01_/'> _ shavin01 _ </a>
 - 🤝<b>Facebook :</b> <a href='https://www.facebook.com/profile.php?id=100012793410934'>Shavinda Dulshan Perera </a>
+
 
 <h2 align='center'>SKILLS:</h2>
 
