@@ -13,18 +13,17 @@
 
 [<img align="right" src = "http://github-readme-streak-stats.herokuapp.com?user=dulshan-perera&theme=dark&date_format=M%20j%5B%2C%20Y%5D" width="400px"/>](https://git.io/streak-stats)
 
-<br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/>
 <h2 align='center'>Connect With Me:</h2>
 
 <h3 align='center'>Socials:</h3>
 
-[<img align="right" src="https://spotify-eq-git-master-dulshan-perera.vercel.app/api/spotify/" alt="spotify" width="350px"/>](https://open.spotify.com/user/31eciunzi2m37sgte5wfybydcu6i?si=8e8b3fbc38b04cde)
+[<img align="right" src="https://spotify-eq-git-master-dulshan-perera.vercel.app/api/spotify/" alt="spotify" width="340px"/>](https://open.spotify.com/user/31eciunzi2m37sgte5wfybydcu6i?si=8e8b3fbc38b04cde)
 
 - 🤝<b>LinkedIn :</b> <a href='https://www.linkedin.com/in/dulshan-perera-5a2a81216/'>Dulshan Perera </a>
 - 🤝<b>Instagram :</b> <a href='https://www.instagram.com/_shavin01_/'> _ shavin01 _ </a>
 - 🤝<b>Facebook :</b> <a href='https://www.facebook.com/profile.php?id=100012793410934'>Shavinda Dulshan Perera </a>
 
-<br/>
 <h2 align='center'>SKILLS:</h2>
 
 <h4 align='center'>Programming Languages</h4>
