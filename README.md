@@ -18,7 +18,7 @@
 
 <h3 align='center'>Socials:</h3>
 
-[<img align="right" src="https://spotify-eq-git-master-dulshan-perera.vercel.app/api/spotify/" alt="spotify" width="340px"/>](https://open.spotify.com/user/31eciunzi2m37sgte5wfybydcu6i?si=8e8b3fbc38b04cde)
+[<img align="right" src="https://spotify-eq-git-master-dulshan-perera.vercel.app/api/spotify/" alt="spotify" width="300px"/>](https://open.spotify.com/user/31eciunzi2m37sgte5wfybydcu6i?si=8e8b3fbc38b04cde)
 
 - 🤝<b>LinkedIn :</b> <a href='https://www.linkedin.com/in/dulshan-perera-5a2a81216/'>Dulshan Perera </a>
 - 🤝<b>Instagram :</b> <a href='https://www.instagram.com/_shavin01_/'> _ shavin01 _ </a>
