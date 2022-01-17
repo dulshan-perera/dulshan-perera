@@ -7,6 +7,13 @@
 <p align='center'><img alt="GitHub followers" src="https://img.shields.io/github/followers/dulshan-perera?style=social">
 <img src=https://komarev.com/ghpvc/?username=dulshan-perera&style=for-the-badge&color=brightgreen /></p>
 
+<h2 align='center'>My Stats:</h2>
+
+[<img align="left" src = "https://github-readme-stats.vercel.app/api?username=dulshan-perera&show_icons=true&theme=dark" width="400px"/>](https://github.com/anuraghazra/github-readme-stats)
+
+[<img align="right" src = "http://github-readme-streak-stats.herokuapp.com?user=dulshan-perera&theme=dark&date_format=M%20j%5B%2C%20Y%5D" width="400px"/>](https://git.io/streak-stats)
+
+<br/><br/><br/><br/><br/><br/><br/>
 <h2 align='center'>Connect With Me:</h2>
 
 <h3 align='center'>Socials:</h3>
