@@ -9,7 +9,7 @@
 
 <h2 align='center'>My Stats:</h2>
 
-[<img align="left" src = "https://git-readme-stats-bwhp1g3ki-dulshan-perera.vercel.app/api?username=dulshan-perera&show_icons=true&theme=dark" width="400px"/>](https://github.com/dulshan-perera/git-readme-stats)
+[<img align="left" src = "https://git-readme-stats-bwhp1g3ki-dulshan-perera.vercel.app/api?username=dulshan-perera&&count_private=true&show_icons=true&theme=dark" width="400px"/>](https://github.com/dulshan-perera/git-readme-stats)
 
 [<img align="right" src = "http://github-readme-streak-stats.herokuapp.com?user=dulshan-perera&theme=dark&date_format=M%20j%5B%2C%20Y%5D" width="400px"/>](https://git.io/streak-stats)
 
