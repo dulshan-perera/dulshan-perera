@@ -1,11 +1,11 @@
-<h1 align='center'> Hello There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align='center'> Hello There!</h1>
 
 <p align='center'>My name is <b> Dulshan Perera </b>.<br/> I am a Software Engineering undergraduate at SLIIT who is interested in coding and graphic designing.</p>
 
 -  I'm working as a Software Development intern at attune Consulting.
 -  I’m currently learning SpringBoot, Redux, PostgreSQL.
 <p align='center'><img alt="GitHub followers" src="https://img.shields.io/github/followers/dulshan-perera?style=social">
-<img src=https://komarev.com/ghpvc/?username=dulshan-perera&style=for-the-badge&color=brightgreen /></p>
+<img src=https://komarev.com/ghpvc/?username=dulshan-perera&style=flat-square&color=brightgreen /></p>
 
 <h2 align='center'>My Stats:</h2>
 
