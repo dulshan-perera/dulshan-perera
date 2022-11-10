@@ -2,7 +2,7 @@
 
 <p align='center'>My name is <b> Dulshan Perera </b>.<br/> I am a Software Engineering undergraduate at SLIIT who is interested in coding and graphic designing.</p>
 
--  I'm working as a Software Development intern at attune Consulting.
+-  I'm working as an Associate Site Reliability Engineer at IFS.
 -  I’m currently learning Flutter & Tailwind CSS.
 <p align='center'><img alt="GitHub followers" src="https://img.shields.io/github/followers/dulshan-perera?style=social">
 <img src=https://komarev.com/ghpvc/?username=dulshan-perera&style=flat-square&color=brightgreen /></p>
