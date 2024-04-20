@@ -1,9 +1,8 @@
 <h1 align='center'> Hello There!</h1>
 
-<p align='center'>My name is <b> Dulshan Perera </b>.<br/> I am a Software Engineering undergraduate at SLIIT who is interested in coding and graphic designing.</p>
+<p align='center'>My name is <b> Dulshan Perera </b>.<br/> I am a Software Engineering graduate who is interested in coding, cloud computing and graphic designing.</p>
 
--  I'm working as an Associate Site Reliability Engineer at IFS.
--  I’m currently learning Flutter, Swift & React Native.
+-  I'm working as a Site Reliability Engineer at IFS.
 <p align='center'><img alt="GitHub followers" src="https://img.shields.io/github/followers/dulshan-perera?style=social">
 <img src=https://komarev.com/ghpvc/?username=dulshan-perera&style=flat-square&color=brightgreen /></p>
 
