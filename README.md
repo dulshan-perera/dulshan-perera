@@ -7,7 +7,7 @@
 <img src=https://komarev.com/ghpvc/?username=dulshan-perera&style=flat-square&color=brightgreen /></p>
 
 <h2 align='center'>My Stats:</h2>
-<img align="left" src = "https://github-readme-stats-five-drab-86.vercel.app/api?username=dulshan-perera&show_icons=true&theme=dark" width="400px"/>
+<img align="left" src = "https://github-readme-stats-j70n-git-master-dulshanpereras-projects.vercel.app/api?username=dulshan-perera&show_icons=true&theme=dark" width="400px"/>
 
 [<img align="right" src = "http://github-readme-streak-stats.herokuapp.com?user=dulshan-perera&theme=dark&date_format=M%20j%5B%2C%20Y%5D" width="400px"/>](https://git.io/streak-stats)
 
